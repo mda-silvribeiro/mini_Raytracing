@@ -1,0 +1,1 @@
+./miniRT scenes/plane.rt && ./miniRT scenes/sphere.rt && ./miniRT scenes/cylinder.rt && ./miniRT scenes/square.rt && ./miniRT scenes/triangle.rt && ./miniRT scenes/t.rt
